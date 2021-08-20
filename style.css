@@ -1,0 +1,35 @@
+
+body{
+    background-color: coral;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+    color: mediumspringgreen;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+    border: dotted blue;
+    border-width: 5px;
+}
+p{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    border: solid goldenrod;
+    border-width: 1px;
+    letter-spacing: 2px;
+}
+h3,h4{
+    font-size: 25px;
+    color: darkred;
+    font-weight: bold;
+}
+.copy_right_footer{
+    font-weight: bold;
+    font-size: 20px;
+    width: 100%;
+    color: chartreuse;
+    text-align: center;
+    position:fixed;
+}
